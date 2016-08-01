@@ -40,3 +40,24 @@ jspm_packages
 # sublime project files
 *.sublime-project
 *.sublime-workspace
+
+# OS X
+.DS_Store*
+Icon?
+._*
+
+# Linux
+.directory
+*~
+
+
+# npm
+*.log
+*.gz
+
+
+# Coveralls
+coverage
+
+# Benchmarking
+benchmarks/graphs
